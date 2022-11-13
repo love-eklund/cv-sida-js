@@ -1,0 +1,74 @@
+{
+    "education":
+    [
+        {
+            "title": "Fullstackutvecklare .NET", 
+            "school": "Chas Academy, Stockholm",
+            "year": "2022–2024",
+            "description": "Med kurser som Programmering med C# och .NET, Backendutveckling och databaser samt Projektmetodik och agila metoder. Yrkeshögskola, pågående."
+        },
+        {
+            "title": "Computer Science", 
+            "school": "University College London (UCL), England",
+            "year": "2007–2009",
+            "description": "Med kurser som Objektorienterad programmering (Java), Diskret matematik samt Logik och databasteori."
+        },
+        {
+            "title": "Medieteknik", 
+            "school": "Kungliga Tekniska Högskolan, Stockholm",
+            "year": "2001–2002",
+            "description": "Med kurser som Datalogi, Tillämpad matematik och Multimediaproduktion."
+        },
+        {
+            "title": "Naturvetenskaplig kompletteringskurs", 
+            "school": "Bandhagens gymnasium, Stockholm",
+            "year": "1995–1996",
+            "description": "Matematik, fysik, kemi och biologi motsvarande treårig Naturvetenskaplig linje."
+        },
+        {
+            "title": "Samhällsvetenskaplig kompletteringskurs", 
+            "school": "Södra Latins gymnasium, Stockholm",
+            "year": "1994–1995",
+            "description": "Motsvarande tredje året på Samhällsvetenskaplig linje."
+        },
+        {
+            "title": "Musiklinjen", 
+            "school": "Södra Latins gymnasium, Stockholm",
+            "year": "1992–1994",
+            "description": "Mitt huvudinstrument var piano."
+        }  
+    ],
+    "work":
+    [
+        {
+            "title": "Bar- och kafébiträde", 
+            "workplace": "University of Reading, England",
+            "year": "2012–2015",
+            "description": "Servering, beredning och försäljning av alkoholhaltiga drycker, kaffe med mera, även inköp av varor."
+        },
+        {
+            "title": "Telemarketingmedarbetare", 
+            "workplace": "Quantum Marketing, Reading, England",
+            "year": "2011–2012",
+            "description": "Business to business telemarketing på uppdrag av it-företag som Symantec, Dell och RIM."
+        },
+        {
+            "title": "Arkivassistent", 
+            "workplace": "European Medicines Agency (EMA), London, England",
+            "year": "2009",
+            "description": "Registrering och klassificering av mediciner utvecklade för användning inom EU."
+        },
+        {
+            "title": "Teknisk support", 
+            "workplace": "Capita, Nottingham, England",
+            "year": "2006–2007",
+            "description": "Mjuk- och hårdvarusupport för Windows-datorer."
+        },
+        {
+            "title": "Försäljare, informatör och spärrvakt", 
+            "workplace": "Storstockholms Lokaltrafik (SL)",
+            "year": "1996–2000",
+            "description": "Började jobba extra som spärrvakt för att senare jobba heltid på SL-Center."
+        }
+    ]
+}
